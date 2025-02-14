@@ -20,59 +20,59 @@ Charlotte, North Carolina 28202-6038**
   - [DECLARATION OF THE COLONY LOFTS CONDOMINIUM](#declaration-of-the-colony-lofts-condominium)
     - [WITNESSETH](#witnesseth)
   - [ARTICLE I:  Definitions](#article-i--definitions)
-    - [1.1. Act](#11-act)
+    - [1.1 Act](#11-act)
     - [1.2 Association](#12-association)
     - [1.3 Board](#13-board)
     - [1.4 Bylaws](#14-bylaws)
-    - [1.5. Common Elements](#15-common-elements)
-    - [1.6. Common Expenses](#16-common-expenses)
-    - [1.7. Condominium](#17-condominium)
-    - [1.8. Declarant](#18-declarant)
-    - [1.9.  Declarant Control Period](#19--declarant-control-period)
-    - [1.10.  First Mortgage and First Mortgagee](#110--first-mortgage-and-first-mortgagee)
-    - [1.11.  Limited Common Elements](#111--limited-common-elements)
-    - [1.12.  Master Declaration](#112--master-declaration)
-    - [1.13.  Occupant](#113--occupant)
-    - [1.14.  Person](#114--person)
-    - [1.15.  Plans](#115--plans)
-    - [1.16.  Plat](#116--plat)
-    - [1.17.  Property](#117--property)
-    - [1.18.  Retail Association](#118--retail-association)
-    - [1.19.  Retail Condominium](#119--retail-condominium)
-    - [1.20.  Rules and Regulations](#120--rules-and-regulations)
-    - [1.21.  Special Declarant Rights](#121--special-declarant-rights)
-    - [1.22.  Unit](#122--unit)
-    - [1.23.  Unit Boundaries](#123--unit-boundaries)
-    - [1.24.  Unit Owner](#124--unit-owner)
+    - [1.5 Common Elements](#15-common-elements)
+    - [1.6 Common Expenses](#16-common-expenses)
+    - [1.7 Condominium](#17-condominium)
+    - [1.8 Declarant](#18-declarant)
+    - [1.9 Declarant Control Period](#19-declarant-control-period)
+    - [1.10 First Mortgage and First Mortgagee](#110-first-mortgage-and-first-mortgagee)
+    - [1.11 Limited Common Elements](#111-limited-common-elements)
+    - [1.12 Master Declaration](#112-master-declaration)
+    - [1.13 Occupant](#113-occupant)
+    - [1.14 Person](#114-person)
+    - [1.15 Plans](#115-plans)
+    - [1.16 Plat](#116-plat)
+    - [1.17 Property](#117-property)
+    - [1.18 Retail Association](#118-retail-association)
+    - [1.19 Retail Condominium](#119-retail-condominium)
+    - [1.20 Rules and Regulations](#120-rules-and-regulations)
+    - [1.21 Special Declarant Rights](#121-special-declarant-rights)
+    - [1.22 Unit](#122-unit)
+    - [1.23 Unit Boundaries](#123-unit-boundaries)
+    - [1.24 Unit Owner](#124-unit-owner)
   - [ARTICLE II:  Submission of Property to the Act](#article-ii--submission-of-property-to-the-act)
-    - [2.1  Submission](#21--submission)
-    - [2.2  Name](#22--name)
-    - [2.3  Division of Property into Separately Owned Units](#23--division-of-property-into-separately-owned-units)
-    - [2.4.  Alterations of Units](#24--alterations-of-units)
-    - [2.5.  Limited Common Elements](#25--limited-common-elements)
-    - [2.6.  Unit Allocations](#26--unit-allocations)
-    - [2.7.  Encumbrances](#27--encumbrances)
-    - [2.8.  Condominium Ordinances](#28--condominium-ordinances)
-    - [2.9.  Reservation of Special Declarant Rights](#29--reservation-of-special-declarant-rights)
+    - [2.1 Submission](#21-submission)
+    - [2.2 Name](#22-name)
+    - [2.3 Division of Property into Separately Owned Units](#23-division-of-property-into-separately-owned-units)
+    - [2.4 Alterations of Units](#24-alterations-of-units)
+    - [2.5 Limited Common Elements](#25-limited-common-elements)
+    - [2.6 Unit Allocations](#26-unit-allocations)
+    - [2.7 Encumbrances](#27-encumbrances)
+    - [2.8 Condominium Ordinances](#28-condominium-ordinances)
+    - [2.9 Reservation of Special Declarant Rights](#29-reservation-of-special-declarant-rights)
   - [ARTICLE III:  Easements](#article-iii--easements)
-    - [3.1.  Encroachments](#31--encroachments)
-    - [3.2.  Master Declaration](#32--master-declaration)
-    - [3.3.  Retail Condominium Easements](#33--retail-condominium-easements)
-    - [3.4.  Easements Through Walls](#34--easements-through-walls)
-    - [3.5.  Easements To Repair, Maintain, Restore and Reconstruct](#35--easements-to-repair-maintain-restore-and-reconstruct)
-    - [3.6.  Easements for Utilities](#36--easements-for-utilities)
-    - [3.7.  Declarant’s Easement](#37--declarants-easement)
-    - [3.8.  Easement for Storm Water Retention](#38--easement-for-storm-water-retention)
-    - [3.9.  Easements To Run With Land](#39--easements-to-run-with-land)
+    - [3.1 Encroachments](#31-encroachments)
+    - [3.2 Master Declaration](#32-master-declaration)
+    - [3.3 Retail Condominium Easements](#33-retail-condominium-easements)
+    - [3.4 Easements Through Walls](#34-easements-through-walls)
+    - [3.5 Easements To Repair, Maintain, Restore and Reconstruct](#35-easements-to-repair-maintain-restore-and-reconstruct)
+    - [3.6 Easements for Utilities](#36-easements-for-utilities)
+    - [3.7 Declarant’s Easement](#37-declarants-easement)
+    - [3.8 Easement for Storm Water Retention](#38-easement-for-storm-water-retention)
+    - [3.9 Easements To Run With Land](#39-easements-to-run-with-land)
   - [ARTICLE IV:  Restrictions, Conditions and Covenants](#article-iv--restrictions-conditions-and-covenants)
-    - [4.1. Compliance with Declaration, Bylaws and Rules and Regulations](#41-compliance-with-declaration-bylaws-and-rules-and-regulations)
-    - [4.2.  Administration of Condominium](#42--administration-of-condominium)
-    - [4.3. Use Restricted:  Use by Declarant](#43-use-restricted--use-by-declarant)
+    - [4.1 Compliance with Declaration, Bylaws and Rules and Regulations](#41-compliance-with-declaration-bylaws-and-rules-and-regulations)
+    - [4.2 Administration of Condominium](#42-administration-of-condominium)
+    - [4.3 Use Restricted:  Use by Declarant](#43-use-restricted--use-by-declarant)
     - [4.4. Hazardous Use and Waste](#44-hazardous-use-and-waste)
-    - [4.5. Alterations of Common Elements](#45-alterations-of-common-elements)
-    - [4.6. Prohibition of Renting for Transient or Hotel Purposes](#46-prohibition-of-renting-for-transient-or-hotel-purposes)
-    - [4.7. Pets](#47-pets)
-    - [4.8. Parking](#48-parking)
+    - [4.5 Alterations of Common Elements](#45-alterations-of-common-elements)
+    - [4.6 Prohibition of Renting for Transient or Hotel Purposes](#46-prohibition-of-renting-for-transient-or-hotel-purposes)
+    - [4.7 Pets](#47-pets)
+    - [4.8 Parking](#48-parking)
     - [4.9 Exterior and Visible Interior Improvements](#49-exterior-and-visible-interior-improvements)
     - [4.10 Prohibitions on Use of Common Elements](#410-prohibitions-on-use-of-common-elements)
     - [4.11 Nuisances](#411-nuisances)
@@ -80,24 +80,24 @@ Charlotte, North Carolina 28202-6038**
     - [4.13 Rules and Regulations](#413-rules-and-regulations)
     - [4.14 Restrictions, Conditions and Covenants To Run With Land](#414-restrictions-conditions-and-covenants-to-run-with-land)
   - [Article V:  Assessments](#article-v--assessments)
-    - [5.1. Assessment Liens](#51-assessment-liens)
-    - [5.2. Personal Liability of Transferees; Statement; Liability Of First Mortgagee](#52-personal-liability-of-transferees-statement-liability-of-first-mortgagee)
+    - [5.1 Assessment Liens](#51-assessment-liens)
+    - [5.2 Personal Liability of Transferees; Statement; Liability Of First Mortgagee](#52-personal-liability-of-transferees-statement-liability-of-first-mortgagee)
     - [5.3. Prohibition of Exemption from Liability for Contribution Toward Common Expenses](#53-prohibition-of-exemption-from-liability-for-contribution-toward-common-expenses)
   - [Article VI:  Management, Maintenance, Repairs, Replacements, Alterations and Improvements](#article-vi--management-maintenance-repairs-replacements-alterations-and-improvements)
-    - [6.1. Common Elements](#61-common-elements)
+    - [6.1 Common Elements](#61-common-elements)
       - [(a) By the Association](#a-by-the-association)
       - [(b) By Unit Owners](#b-by-unit-owners)
-    - [6.2. Common Expenses Associated with Limited Common Elements or Benefitting Less Than All Units](#62-common-expenses-associated-with-limited-common-elements-or-benefitting-less-than-all-units)
-    - [6.3. Units](#63-units)
-    - [6.4. Waiver of Claims](#64-waiver-of-claims)
-    - [6.5. Right of Entry](#65-right-of-entry)
+    - [6.2 Common Expenses Associated with Limited Common Elements or Benefitting Less Than All Units](#62-common-expenses-associated-with-limited-common-elements-or-benefitting-less-than-all-units)
+    - [6.3 Units](#63-units)
+    - [6.4 Waiver of Claims](#64-waiver-of-claims)
+    - [6.5 Right of Entry](#65-right-of-entry)
       - [By the Association](#by-the-association)
       - [By Unit Owners](#by-unit-owners)
   - [Article VII:  Insurance](#article-vii--insurance)
-    - [7.1. Casualty Insurance](#71-casualty-insurance)
-    - [7.2. Public Liability Insurance](#72-public-liability-insurance)
+    - [7.1 Casualty Insurance](#71-casualty-insurance)
+    - [7.2 Public Liability Insurance](#72-public-liability-insurance)
     - [7.3 Fidelity Coverage](#73-fidelity-coverage)
-    - [7.4. Insurance Unavailable](#74-insurance-unavailable)
+    - [7.4 Insurance Unavailable](#74-insurance-unavailable)
     - [7.5 Other Insurance](#75-other-insurance)
     - [7.6 Insurance Trustee](#76-insurance-trustee)
     - [7.7 Individual Policy for Unit Owners](#77-individual-policy-for-unit-owners)
@@ -130,7 +130,6 @@ Charlotte, North Carolina 28202-6038**
     - [CONSENT AND SUBORDINATION OF MORTGAGEE](#consent-and-subordination-of-mortgagee)
     - [EXHIBIT A: TO DECLARATION OF THE COLONY LOFTS CONDOMINIUM](#exhibit-a-to-declaration-of-the-colony-lofts-condominium)
 
-
 ## DECLARATION OF THE COLONY LOFTS CONDOMINIUM
 
 THIS DECLARATION, made this `25th` day of `November`, 2002, by GATEWAY HOMES IV, LLC, a North Carolina limited liability company, (“Developer”), pursuant to the North Carolina Condominium Act, Chapter 47C, North Carolina General Statutes (“Act”).
@@ -147,7 +146,7 @@ NOW, THEREFORE, Developer, as the owner of said property, hereby declares as fol
 
 **Definitions**.  As used herein, the following words and terms shall have the following meanings:
 
-### 1.1. Act
+### 1.1 Act
 
 The North Carolina Condominium Act, Chapter 47C, North Carolina General Statutes.
 
@@ -163,135 +162,135 @@ The Executive Board of the Association.
 
   The Bylaws of the Association which are hereby incorporated herein and made a part hereof by this reference, and attached as Exhibit B.
 
-### 1.5. Common Elements
+### 1.5 Common Elements
 
 All portions of the Condominium except the Units.  Limited Common Elements are Common Elements.
 
-### 1.6. Common Expenses
+### 1.6 Common Expenses
 
 Expenditures made or liabilities incurred by or on behalf of the Association, together with any allocations to reserves.
 
-### 1.7. Condominium
+### 1.7 Condominium
 
 The condominium created by this Declaration.
 
-### 1.8. Declarant
+### 1.8 Declarant
 
 Developer and (i) any other person who has executed this Declaration, or who hereafter executes an amendment to this Declaration except First Mortgagees and except persons whose interest in the Property will not be conveyed to Unit Owners, and (ii) any person who succeeds to any Special Declarant Rights as defined in Section 47C-1-103(23) of the Act.
 
-### 1.9.  Declarant Control Period
+### 1.9 Declarant Control Period
 
 The period commencing on the date hereof and continuing until earlier of (i) the date two (2) years after all Declarants have ceased to offer Units for sale in the ordinary course of business, or (ii) the date upon which Declarant surrenders control of the Condominium, or (iii) the date one hundred twenty (120) days after the Declarant has conveyed seventy-five percent (75%) of the Units to Unit Owners other than a Declarant, or (iv) the date two (2) years after any development right to add new Units was last exercised by Declarant.
 
-### 1.10.  First Mortgage and First Mortgagee
+### 1.10 First Mortgage and First Mortgagee
 
 A First Mortgage is a mortgage or deed of trust which has been recorded so as to give constructive notice thereof, and which is a first lien on the Units described therein.  A first Mortgagee is the holder, from time to time, of a First Mortgage as shown by the records of the Office of the Register of Deeds for the county in which the First Mortgage is recorded, including the Federal National Mortgage Association and a purchaser at foreclosure sale upon foreclosure of a First Mortgage until expiration of the mortgagor’s period of redemption. If there be more than one holder of a First Mortgage, they shall be considered as, and act as, one First Mortgagee for all purposes under this Declaration and Bylaws.
 
-### 1.11.  Limited Common Elements
+### 1.11 Limited Common Elements
 
 Those portions of the Common Elements allocated by this Declaration, the Plans or by operation of Section 47C-2-102(2) or (4) of the Act for the exclusive use of one or more but fewer than all of the Units.
 
-### 1.12.  Master Declaration
+### 1.12 Master Declaration
 
 That Master Declaration of Covenants, Conditions and Restrictions for The Colony executed by Declarant and recorded in the Mecklenburg County Public Registry.
 
-### 1.13.  Occupant
+### 1.13 Occupant
 
 Any person or persons in possession of a Unit, including Unit Owners, the family members, lessees, guests and invitees of such person or persons, and family members, guests and invitees of such lessees.
 
-### 1.14.  Person
+### 1.14 Person
 
 A natural person, corporation, partnership, trust or other legal or commercial entity, or any combination thereof.
 
-### 1.15.  Plans
+### 1.15 Plans
 
 The plans of the Condominium recorded with, and by the Act made a part of, this Declaration, as the same may hereafter be amended, and described on Exhibit C.
 
-### 1.16.  Plat
+### 1.16 Plat
 
 The survey plat depicting the Condominium and the location of buildings on the Property recorded with, and by the Act made a part of, this Declaration, as the same may hereafter be amended, and described on Exhibit D.
 
-### 1.17.  Property
+### 1.17 Property
 
 The Property rights described on Exhibit A-1, together with all buildings and improvements now or hereafter constructed or located thereon, and all rights, privileges, easements and appurtenances belonging to or in any way pertaining to said property which is a portion of the property described in Exhibit A.
 
-### 1.18.  Retail Association
+### 1.18 Retail Association
 
 Shops at the Colony Owners Association, Inc. A North Carolina non-profit corporation, created to govern the Retail Condominium.
 
-### 1.19.  Retail Condominium
+### 1.19 Retail Condominium
 
 That condominium created by that Declaration of Shops at the Colony Condominium recorded in the Mecklenburg County Public Registry and constructed upon that property described on Exhibit A.
 
-### 1.20.  Rules and Regulations
+### 1.20 Rules and Regulations
 
 The rules and regulations of the Condominium promulgated by the Executive Board from time to time.
 
-### 1.21.  Special Declarant Rights
+### 1.21 Special Declarant Rights
 
 The rights as defined in Section 47C-1-103(23) of the Act of the benefit of a Declarant, including, but not limited to, the following: to complete the improvements indicated on the Plans; to maintain sales offices, models and signs advertising the Condominium on the Property; to exercise any development right as defined in Section 47C-2-110 of the Act; to use easements over the Common Elements for purpose of making improvements within the Condominium; to elect, appoint or remove members of the Board during the Declarant Control Period; to make the Condominium part of a larger condominium.
 
-### 1.22.  Unit
+### 1.22 Unit
 
 A portion of the Condominium, whether or not contained solely or partially within a building, together with its percentage of undivided interest in the Common Elements as set forth on Exhibit E.  Each Unit is designated and delineated on the Plans.
 
-### 1.23.  Unit Boundaries
+### 1.23 Unit Boundaries
 
 The boundaries of each Unit, both as to vertical and horizontal planes, as shown on the Plans, are the undecorated surfaces of the perimeter walls, exterior doors and exterior windows facing the interior of the Unit, the undecorated surfaces of the ceiling facing the interior of the Unit, and the topmost surfaces of the subflooring, and include the decoration on all such interior and topmost surfaces, including, without limitation, all panelling, tiles, wallpaper, paint, finished flooring, and any other materials constituting any part of the decorates surfaces thereof, and als includes all spaces, interior partitions and other fixtures and improvements within such boundaries.  Also included as part of the Unit shall be those portions of the heating and air conditioning system for the Unit which are located within the perimeter walls of the Unit and those portions of the heating and air conditioning system located in the Common Elements, wherever located.
 
-### 1.24.  Unit Owner
+### 1.24 Unit Owner
 
 The person or persons, including the Declarant, owning a Unit in fee simple.
 
 ## ARTICLE II:  Submission of Property to the Act
 
-### 2.1  Submission
+### 2.1 Submission
 
 Developer hereby submits the Property to the Act.
 
-### 2.2  Name
+### 2.2 Name
 
 The Property shall hereafter be known as The Colony Lofts Condominium
 
-### 2.3  Division of Property into Separately Owned Units
+### 2.3 Division of Property into Separately Owned Units
 
 Developer, pursuant to the Act, and to establish a plan of condominium ownership for the Condominium, does hereby divide the Property into nine (9) Units and does hereby designate all such Units for separate ownership, subject however, to the provisions of Section 2.4 hereof.
 
-### 2.4.  Alterations of Units
+### 2.4 Alterations of Units
 
 Subject to the provisions of the Bylaws, a Unit may be altered pursuant to the provisions of Sections 47C-2-111, 47C-2-112 and 47C-2-113 of the Act.
 
-### 2.5.  Limited Common Elements
+### 2.5 Limited Common Elements
 
 The Limited Common Elements serving or designed to serve each Unit are hereby allocated solely and exclusively to each such Unit.
 
-### 2.6.  Unit Allocations
+### 2.6 Unit Allocations
 
 The allocation to each Unit of a percentage of undivided interest in the Common Elements and of a percentage of the Common Expenses, is as stated on Exhibit E.  There shall be an equal allocation of undivided interests in the Common Elements and the Common Expenses to each Unit.  The votes in the Association are equally allocated to all Units with each Unit Owner having one (1) vote for each Unit owned.
 
-### 2.7.  Encumbrances
+### 2.7 Encumbrances
 
 The liens, defects and encumbrances affecting the Property to which the rights of Unit Owners and Occupants are hereby made subject are set out on Exhibit F.
 
-### 2.8.  Condominium Ordinances
+### 2.8 Condominium Ordinances
 
 The Condominium is not subject to any code, real estate use law, ordinance, charter provision, or regulations (i) prohibiting the condominium form of ownership, or (ii) imposing conditions or requirements upon condominium which are not imposed upon physically similar developments under a different form of ownership.  This statement is made pursuant to Section 47C-1-106 of the Act for the purpose of providing marketable title to the Units in the Condominium.
 
-### 2.9.  Reservation of Special Declarant Rights
+### 2.9 Reservation of Special Declarant Rights
 
 Declarant hereby reserves all Special Declarant Rights.
 
 ## ARTICLE III:  Easements
 
-### 3.1.  Encroachments
+### 3.1 Encroachments
 
 In the event that, by reason of the construction, reconstruction, rehabilitation, alteration, or improvement of the buildings or improvements comprising a part of the Property, any part of the Common Elements now or hereafter encroaches upon any part of any Unit, or any part of Common Elements, or upon any part of another Unit, an easement for the continued existence and maintenance of each such encroachment.
 
-### 3.2.  Master Declaration
+### 3.2 Master Declaration
 
 The Property shall be subject to the rights and obligations contained in the Master Declaration.
 
-### 3.3.  Retail Condominium Easements
+### 3.3 Retail Condominium Easements
 
 The Declarant shall grant easements to the Retail Condominium Association as provided in that Declaration of Shops at the Colony Condominium recorded in the Mecklenburg County Public Registry. Declarant will further grant, bargain, sell and convey to the Retail Condominium Association the following easements, each for the benefit of and appurtenant to the rights of the Retail Condominium Association:
 
@@ -305,41 +304,41 @@ The Declarant shall grant easements to the Retail Condominium Association as pro
 
 5. Easements to permit the encroachment of eaves, balconies, bay windows or other architectural projections or extensions from the Retail Condominium improvements, including the right to construct, repair, maintain and replace such projections or extensions over, across and through the air rights of the Lofts Condominium.
 
-### 3.4.  Easements Through Walls
+### 3.4 Easements Through Walls
 
 Easements are hereby declared and granted to the Association and to such persons as are authorized by the Association, to install, lay, maintain, repair and replace any chutes, flues, ducts, vents, pipes, wires, conduits and other utility installations, and structural components running through the walls of the Units, whether or not such walls lie in whole or in part within the boundaries of any Unit.
 
-### 3.5.  Easements To Repair, Maintain, Restore and Reconstruct
+### 3.5 Easements To Repair, Maintain, Restore and Reconstruct
 
 Wherever in, and whenever by, this Declaration, the Bylaws or the Act, a Unit Owner, the Association, the Board, or any other person, is authorized to enter upon a Unit or the Common Elements to inspect, repair, maintain, restore or reconstruct all or any part of a Unit or the Common Elements, such easements as are necessary for such entry and such repair, maintenance, restoration or reconstruction are hereby declared and granted.
 
-### 3.6.  Easements for Utilities
+### 3.6 Easements for Utilities
 
 The Units and Common Elements shall be, and are hereby, made subject to easements in favor of the Declarant (until Declarant shall have satisfied all of its obligations under the Declaration and Bylaws and all commitments in favor of any Unit Owner and the Association), the Association, appropriate utility and service companies and governmental agencies or authorities for such utility and service lines and equipment as may be necessary or desirable to serve any portion of the Property. The easements provided for by this Section 3.6 shall include, without limitation, rights of Declarant, the Association, any providing utility, any service company, and any governmental agency or authority and any of them to install, lay, maintain, repair, relocate and replace gas lines, pipes and conduits, water mains and pipes, sewer and drain lines, telephone wires and equipment, television equipment and facilities (cable or otherwise), electrical wires, conduits and equipment and ducts and vents and any other appropriate equipment and facilities over, under, through, along and on the Units and Common Elements. Notwithstanding the foregoing provisions of this Section 3.6, unless approved in writing by the Unit Owner or Unit Owners affected thereby, any such easement through a Unit shall be located either in substantially the same location as such facilities or similar facilities existed at the time of first conveyance of the Unit by the Declarant to a grantee other than the Declarant, or so as not to materially interfere with the use or occupancy of the Unit by its Occupants.
 
-### 3.7.  Declarant’s Easement
+### 3.7 Declarant’s Easement
 
 Declarant hereby reserves such easements through the Common Elements as may be reasonably necessary for the purposes of discharging its obligations, exercising Special Declarant Rights, and completing the development and construction of the Condominium, which easements shall exist as long as reasonably necessary for such purpose.
 
-### 3.8.  Easement for Storm Water Retention
+### 3.8 Easement for Storm Water Retention
 
 The Common Elements shall be and are hereby made subject to the easements in favor of the Declarant, its successors and assigns, for the installation, maintenance, repair, relocations, replacement and use of storm water lines, pipes, conduits, mains and retention pond facilities and other appropriate equipment and facilities related to storm water drainage. The easements provided for in the Section 3.6 shall be for the benefit of the Property and other nearby property owned at any time hereafter by Declarant.
 
-### 3.9.  Easements To Run With Land
+### 3.9 Easements To Run With Land
 
 All easements and rights described in this Article III are appurtenant easements running with the land, and except as otherwise expressly provided in this Article III shall be non-exclusive and perpetually in force and effect, and shall inure to the benefit of and be binding upon Declarant, the Association, Unit owners, Occupants, First Mortgagees and any other person having any interest in the Condominium or any part thereof. The Condominium and every part thereof shall be conveyed and encumbered subject to and together with all easements and rights described in this Article III, whether or not specifically mentioned in any such conveyance or encumbrance.
 
 ## ARTICLE IV:  Restrictions, Conditions and Covenants
 
-### 4.1. Compliance with Declaration, Bylaws and Rules and Regulations
+### 4.1 Compliance with Declaration, Bylaws and Rules and Regulations
 
 Each Unit Owner and Occupant shall comply with all applicable provisions of the Act, this Declaration, the Bylaws, the Articles of Incorporation of the Association, and rules and regulations promulgated by the Board or the Association, as amended. Failure to comply shall be grounds for an action by the Association, an aggrieved Unit Owner, or any person adversely affected, for recovery of damages, injunction or other relief.
 
-### 4.2.  Administration of Condominium
+### 4.2 Administration of Condominium
 
 The Condominium shall be administered in accordance with the provisions of the Act, this Declaration and the Bylaws.
 
-### 4.3. Use Restricted:  Use by Declarant
+### 4.3 Use Restricted:  Use by Declarant
 
 1. The Units shall be occupied and used by Unit Owners and Occupants for residential purposes only.
 2. The foregoing provisions of this Section or any other provision of this Declaration or the Bylaws notwithstanding, Declarant shall have an easement to maintain sales offices and models for sales of Units in the Condominium and for the sale of condominium units that Declarant develops or plans to develop on land adjacent to or in the general vicinity of the Condominium.  Declarant shall have the right to relocate, from time to time, and to discontinue and reestablish, from time to time, with the Condominium, for not more than three (3) years after the last of the Units has been conveyed to a Unit Owner other than a Declarant, any one or more of such offices or models.  Declarant also shall have the right to change the use or combination of uses of such offices or models, provided that such offices or models shall be used only for sales offices or models.  The total number of such offices or models maintained at any time by a Declarant shall not exceed two (2), and the size of any such relocated or reestablished office or model shall not exceed the size of the largest Unit in the Condominium.
@@ -349,19 +348,19 @@ The Condominium shall be administered in accordance with the provisions of the A
 
 Nothing shall be done to or kept in any Unit or the Common Elements that will increase any rate of insurance maintained with respect to the Condominium without the prior written consent of the Board.  No Unit Owner or Occupant shall permit anything to be done to or kept in his Unit or the Common Elements that will result in the cancellation of insurance maintained with respect to the Condominium, or that would be in violation of any law, or that will result in the commitment of waste (damage, abuse, or destruction) to or in his Unit or the Common Elements.
 
-### 4.5. Alterations of Common Elements
+### 4.5 Alterations of Common Elements
 
 No Unit Owner or Occupant, except Declarant during the Declarant Control Period, shall alter, construct anything upon, or remove anything from, the Common Elements, or paint, decorate, landscape or adorn any portion of the Common Elements, without the prior written consent of the Board.
 
-### 4.6. Prohibition of Renting for Transient or Hotel Purposes
+### 4.6 Prohibition of Renting for Transient or Hotel Purposes
 
 No Unit Owner shall rent his Unit for transient or hotel purposes, which, for the purposes of this Declaration shall be defined as either a rental for any period less than thirty (30) days or any rental if the lessee of the Unit is provided customary hotel services.  Each permitted lease shall lease an entire Unit, shall be in writing, and shall be subject to this Declaration and the Bylaws, and any failure of the lessee to comply with the terms of such documents shall be a default under the lease. Any Unit Owner who enters into a lease of his Unit shall promptly notify the Association of the name and address of each lessee, the Unit rented, and the term of the lease. Other than the foregoing restrictions, each Unit Owner shall have the full right to lease his Unit.
 
-### 4.7. Pets
+### 4.7 Pets
 
 Only two (2) domestic pets and only one (1) dog shall be allowed in the Condominium, except as may be provided by the rules and regulations promulgated from time to time by the Board or the Association or in the Bylaws. For the purposes of this paragraph, “domestic pets” shall be defined solely as dogs, cats or birds. Except for the foregoing, no other animals, livestock or poultry of any kind shall be raised, bred or kept on the Property.
 
-### 4.8. Parking
+### 4.8 Parking
 
 No commercial or recreation automobile, van, truck, tractor, mobile home or trailer (either with or without wheels), camper, camper trailer, boat or other watercraft, boat trailer or any other commercial or recreational vehicle shall be parked on any portion of the Common Elements except in a closed garage for that Unit.  For the purposes hereof, the term “recreational automobile” shall refer to an automobile, sport utility vehicle, minivan or pick-up truck upon which is displayed permanent painted commercial or advertising displays, lettering or logos.  The foregoing restriction shall not apply to sales trailers, construction trailers or other vehicles which may be used by Declarant and its agents and contractors in the conduct of their business prior to completion of the Condominium, and shall not apply to service vehicles which are temporarily parked while service contractors are providing temporary service work in one or more Units in the Condominium or on the Common Elements.
 
@@ -394,11 +393,11 @@ Each Unit Owner and Occupant shall be subject to all restrictions, conditions an
 
 ## Article V:  Assessments
 
-### 5.1. Assessment Liens
+### 5.1 Assessment Liens
 
 The Board has the power to levy assessments against the Units for Common Expenses.  Such assessments shall be a lien on the Units against which they are assessed, and if any payment thereof becomes delinquent, the lien may be foreclosed and the Unit sold, or a money judgment obtained against the persons liable therefor, all, as set forth in the Bylaws.
 
-### 5.2. Personal Liability of Transferees; Statement; Liability Of First Mortgagee
+### 5.2 Personal Liability of Transferees; Statement; Liability Of First Mortgagee
 
 1. The personal obligation for assessments which are delinquent at the time of transfer of a Unit shallot pass to the transferee of said Unit unless said delinquent assessments are expressly assumed by said transferee.
 2. Any transferee referred to in (a) above shall be entitled to a statement from the Board, pursuant to Section 6.2 of the Bylaws, and such transferee’s Unit shall not be subject to a lien for any unpaid assessments against such Unit in excess of the amount therein set forth.
@@ -411,7 +410,7 @@ No Unit Owner may exempt himself from liability for his share of the Common Expe
 
 ## Article VI:  Management, Maintenance, Repairs, Replacements, Alterations and Improvements
 
-### 6.1. Common Elements
+### 6.1 Common Elements
 
 #### (a) By the Association
 
@@ -421,20 +420,20 @@ The management, replacement, maintenance, repair, alteration, and improvement of
 
 Each Unit Owner shall pay all costs to repair and replace all portions of the Common Elements that may become damaged or destroyed by reason of his intentional acts or the intentional acts of any Occupant of his Unit. Such payment shall be made upon demand made by the Association.
 
-### 6.2. Common Expenses Associated with Limited Common Elements or Benefitting Less Than All Units
+### 6.2 Common Expenses Associated with Limited Common Elements or Benefitting Less Than All Units
 
 1. Any Common Expense associated with the maintenance, repair, or replacement of a Limited Common Element shall be assessed against the Unit, or in equal shares to the Units, to which such Limited Common Element was allocated at the time the expense was incurred.
 2. In addition, the Association may assess any Common Expense benefitting less than all of the Units against the Units benefitted in proportion to their Common Expense liability.
 
-### 6.3. Units
+### 6.3 Units
 
 Each Unit Owner shall maintain his Unit at all times in a good and clean condition, and repair and replace, at his expense, all portions of his Unit; shall perform his responsibilities in such manner as not to unreasonably disturb other Occupants; shall promptly report to the Board, or its agents, any defect or need for repairs the responsibility for which is that of the Association; and, to the extent that such expense is not covered by the proceeds of insurance carried by the Association, shall pay all costs to repair and replace any portion of another Unit that has become damaged or destroyed by reason of his own acts or omissions, or the acts or omissions of any Occupant of his Unit.  Such payment shall be made upon demand by the Unit Owners of such other Unit.  Nothing herein contained shall modify any waiver by insurance companies of rights subrogation.
 
-### 6.4. Waiver of Claims
+### 6.4 Waiver of Claims
 
 Except only as provided in Section 6.5(a) and (b), the Association agrees that it shall make no claim against a Unit Owner or Occupant, and each Unit Owner and Occupant agrees that he shall make no claim against the Association, the members of the Board, officers of the Association, or employees or agents of any thereof, or against any manager retained by the Board, or his or its officers, directors, employees or agents, or other Unit Owners or Occupants, for any loss or damage to any of the Property, or to a Unit or personal property therein, even if caused by the omission or neglect of any one or more of such persons and all such claims are hereby waived and released; provided, that this waive shall not apply to any such loss or damage due to intentional acts.
 
-### 6.5. Right of Entry
+### 6.5 Right of Entry
 
 #### By the Association
 
@@ -446,11 +445,11 @@ Each Unit Owner and Occupant shall allow other Unit Owners and Occupants, and th
 
 ## Article VII:  Insurance
 
-### 7.1. Casualty Insurance
+### 7.1 Casualty Insurance
 
 The Association shall maintain, to the extent available, casualty insurance upon the Property in the name of, and the proceeds thereof shall be payable to, the Association, as trustee for all Unit Owners and First Mortgagees as their interest may appear, and be disbursed pursuant to the Act. Such insurance shall be in an amount equal to not less than one hundred percent (100%) full insurable value of the Property on a replacement cost basis exclusive of land, excavations, foundations and other items normally excluded from property policies, and shall insure against such risks and contain such provisions as the Board from time to time shall determine, but at a minimum shall conform in all respects to the requirements of the Act, and shall provide that, notwithstanding any provision thereof that gives the insurer an election to restore damage in lieu of making a cash settlement, such option shall not be exercisable, if such restoration is prohibited pursuant to Section 47C-3-113(h) of the Act. In addition, if any fixtures, property or equipment used or kept in a Unit are financed by the proceeds of any First Mortgage on such Unit, then the Association, at its option, may obtain insurance coverage for such fixtures, property or equipment.
 
-### 7.2. Public Liability Insurance
+### 7.2 Public Liability Insurance
 
 The Association shall maintain public liability insurance for the benefit of the Unit Owners, Occupants, the Association, the Board, the managing agent, if any, the Declarant, and their respective officers, directors, agents and employees, in such amounts and with such such coverage as shall be determined by the Board; provided that the public liability insurance shall be for at least One Million Dollars ($1,000,000) per occurrence for death, bodily injury and property damage. Said insurance shall comply in all respects to the requirements of the Act and shall contain a severability-of-interest endorsement precluding the insurer from denying liability because of negligent acts of any insured; insure all of such benefitted parties against such liability arising out of or in connection with the use, ownership or maintenance of the Common Elements, and the streets, sidewalks and public spaces adjoining the Condominium; and insure the Association, the Board, the manager, if any, and their respective officers, directors, agents and employees against such liability arising out of or in connection with the use or maintenance of the Units.
 
@@ -458,7 +457,7 @@ The Association shall maintain public liability insurance for the benefit of the
 
 If available at reasonable cost, fidelity coverage shall be maintained by the Association in commercial blanket form covering each director and officer of the Association, any employee or agent of the Association and any other person handling or responsible for handling funds of the Association in the face amount of at least the greater of (i) one and one-half (1-½) times the estimated annual operating expenses and reserves of the Association, or (ii) the sum of three months’ aggregate assessments on all Units plus the Association’s reserve funds. Such bonds shall contain an appropriate endorsement to cover persons who serve without compensation. The premium on such bonds shall be a Common Expense.
 
-### 7.4. Insurance Unavailable
+### 7.4 Insurance Unavailable
 
 If the insurance described in Section 7.1, 7.2 or 7.3 is not reasonably available, the Association shall promptly cause notice of such fact to be hand-delivered or sent prepaid by United States mail to all Unit Owners.
 
