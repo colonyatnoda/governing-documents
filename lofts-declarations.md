@@ -129,6 +129,7 @@ Charlotte, North Carolina 28202-6038**
     - [Execution Signature Page](#execution-signature-page)
     - [CONSENT AND SUBORDINATION OF MORTGAGEE](#consent-and-subordination-of-mortgagee)
     - [EXHIBIT A: TO DECLARATION OF THE COLONY LOFTS CONDOMINIUM](#exhibit-a-to-declaration-of-the-colony-lofts-condominium)
+    - [EXHIBITS C AND D: PLATS AND PLANS](#exhibits-c-and-d-plats-and-plans)
 
 ## DECLARATION OF THE COLONY LOFTS CONDOMINIUM
 
@@ -604,7 +605,7 @@ My Commission Expires: `November 16, 2004`
 
 ### CONSENT AND SUBORDINATION OF MORTGAGEE
 
-Bank of America, N.A. holder of that certain Note secured by that certain deed of trust dated October 4, 2002 and recorded in Book 14186 at Page 637 in the Mecklenburg County Public Registry and PRPLAP, Inc., Trustee, do hereby consent to the terms, conditions, and covenants in the foregoing Declaration and the Bylawys described therein, and agree that the lien of said deed of trust, and the interest of the beneficiary therein, are subject and subordinate, inall respects, to the terms and conditions, and covenants contained in said Declaration, including all exhibits, supplemental declarations and other amendments thereoto.
+Bank of America, N.A. holder of that certain Note secured by that certain deed of trust dated October 4, 2002 and recorded in Book 14186 at Page 637 in the Mecklenburg County Public Registry and PRPLAP, Inc., Trustee, do hereby consent to the terms, conditions, and covenants in the foregoing Declaration and the Bylawys described therein, and agree that the lien of said deed of trust, and the interest of the beneficiary therein, are subject and subordinate, inall respects, to the terms and conditions, and covenants contained in said Declaration, including all exhibits, supplemental declarations and other amendments thereto.
 
 IN WITNESS WHEREOF, the undersigned has caused this Consent to be duly executed this `25th?` day of `November`, 2002.
 
@@ -645,3 +646,7 @@ BEGINNING at a point being located the following three (3) courses and distances
 TOGETHER WITH rights of ingress, egress and regress over the common open space shown on the afore-referenced plat pursuant to that Reciprocal Easement Agreement dated `November 25`, 2002 between Shops At the Colony Owners Association, Inc. and The Colony Lofts Condominium Homeowners Association, Inc. recorded contemporaneously wherewith.
 
 LESS AND EXCEPT that portion of the above-reference property which is being created pursuant to that Declaration of Shops at The Colony Condominium recorded in Book `14510` at Page `542` in the Mecklenburg County Public Registry.
+
+### EXHIBITS C AND D: PLATS AND PLANS
+
+The condominium plat of survey for The Colony Lofts Condominium dated November 12, 2002, prepared by Mitcham & Associates, P.A., entitled "Condominium Plat the Colony Lofts Condominium Phase 1 Map 4" and the plans for the Colony Lofts Condominium, prepared by Charles E. Leaf, AIA, dated November 13, 2002, together consisting of three (3) sheets, which are attached to this Declaration at the time filed by record is duly filed in the Office of the Register of Deeds for Mecklenburg County, North Carolina in Condominium Unit File No. `630`. Said survey and plans are incorporate herein by reference as though fully set out herein.
