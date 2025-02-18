@@ -1,10 +1,114 @@
 # BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC
 
+- [BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC](#bylaws-of-the-colony-lofts-condominium-homeowners-association-inc)
+  - [ARTICLE I: PLAN OF CONDOMINIUM](#article-i-plan-of-condominium)
+    - [1.1 Unit Ownership](#11-unit-ownership)
+    - [1.2 Applicability of Bylaws](#12-applicability-of-bylaws)
+    - [1.3 Persons Bound](#13-persons-bound)
+    - [1.4 Definitions](#14-definitions)
+  - [ARTICLE II: UNIT OWNERS](#article-ii-unit-owners)
+    - [2.1 Name and Nature of Association](#21-name-and-nature-of-association)
+    - [2.2 Place of Meetings](#22-place-of-meetings)
+    - [2.3 Annual](#23-annual)
+    - [2.4 Substitute Annual Meetings](#24-substitute-annual-meetings)
+    - [2.5 Special Meeting](#25-special-meeting)
+    - [2.6 Notice of Meetings](#26-notice-of-meetings)
+    - [2.7 Quorum](#27-quorum)
+    - [2.8 Voting Rights](#28-voting-rights)
+    - [2.9 Majority Vote](#29-majority-vote)
+    - [2.10 Proxies](#210-proxies)
+    - [2.11 Waiver of Notice](#211-waiver-of-notice)
+    - [2.12 Informal Action by Unit Owners](#212-informal-action-by-unit-owners)
+  - [ARTICLE III: EXECUTIVE BOARD](#article-iii-executive-board)
+    - [3.1 Number](#31-number)
+    - [3.2 Initial Members](#32-initial-members)
+    - [3.3 Election](#33-election)
+    - [3.4 Term and Qualification](#34-term-and-qualification)
+    - [3.5 Removal](#35-removal)
+    - [3.6 Vacancies](#36-vacancies)
+    - [3.7 Compensation](#37-compensation)
+    - [3.8 Executive Committees](#38-executive-committees)
+    - [3.9 Powers and Duties](#39-powers-and-duties)
+    - [3.10 Managing Agent](#310-managing-agent)
+    - [3.11 Duties of Declarant](#311-duties-of-declarant)
+  - [ARTICLE IV: MEETING OF DIRECTORS](#article-iv-meeting-of-directors)
+    - [4.1 Organizational Meeting](#41-organizational-meeting)
+    - [4.2 Regular Meeting](#42-regular-meeting)
+    - [4.3 Special Meetings](#43-special-meetings)
+    - [4.4 Notice of Meetings](#44-notice-of-meetings)
+    - [4.5 Waiver of Notice](#45-waiver-of-notice)
+    - [4.6 Quorum](#46-quorum)
+    - [4.7 Manner of Acting](#47-manner-of-acting)
+    - [4.8 Organization](#48-organization)
+    - [4.9 Informal Action of Board](#49-informal-action-of-board)
+    - [4.10 Minutes](#410-minutes)
+    - [4.11 Liability of the Board and Officers](#411-liability-of-the-board-and-officers)
+    - [4.12 Attendance of Unit Owners](#412-attendance-of-unit-owners)
+  - [ARTICLE V: OFFICERS](#article-v-officers)
+    - [5.1 Number](#51-number)
+    - [5.2 Election and Term](#52-election-and-term)
+    - [5.3 Removal](#53-removal)
+    - [5.4 Compensation](#54-compensation)
+    - [5.5 President](#55-president)
+    - [5.6 Vice President](#56-vice-president)
+    - [5.7 Secretary](#57-secretary)
+    - [5.8 Treasurer](#58-treasurer)
+    - [5.9 Assistant Secretaries and Treasurers](#59-assistant-secretaries-and-treasurers)
+  - [ARTICLE VI: OPERATION OF THE PROPERTY](#article-vi-operation-of-the-property)
+    - [6.1 Assessment and Determination of Common Expense](#61-assessment-and-determination-of-common-expense)
+    - [6.2 Payment of Assessments](#62-payment-of-assessments)
+    - [6.3 Special Assessments](#63-special-assessments)
+    - [6.4 Collection of Assessments](#64-collection-of-assessments)
+    - [6.5 Default in Payment of Assessment](#65-default-in-payment-of-assessment)
+    - [6.6 Lien and Personal Obligation](#66-lien-and-personal-obligation)
+    - [6.7 Priority of Assessment Lien](#67-priority-of-assessment-lien)
+    - [6.8 Owners Non-Use](#68-owners-non-use)
+    - [6.9 Foreclosure of Liens for Unpaid Assessments](#69-foreclosure-of-liens-for-unpaid-assessments)
+    - [6.10 Statement of Common Expense](#610-statement-of-common-expense)
+    - [6.11 Abatement and Enjoinment of Violations by Unit Owners](#611-abatement-and-enjoinment-of-violations-by-unit-owners)
+    - [6.12 Maintenance and Repair](#612-maintenance-and-repair)
+    - [6.13 Restrictions on Unit Owners](#613-restrictions-on-unit-owners)
+    - [6.14 Duty to Report](#614-duty-to-report)
+    - [6.15 Additions, Alterations or Improvements by the Association](#615-additions-alterations-or-improvements-by-the-association)
+    - [6.16 Additions or Improvements by Unit Owners](#616-additions-or-improvements-by-unit-owners)
+    - [6.17 Use of the Common Elements and Facilities](#617-use-of-the-common-elements-and-facilities)
+    - [6.18 Conveyance or Encumbrance of Common Elements](#618-conveyance-or-encumbrance-of-common-elements)
+    - [6.19 Right to Access](#619-right-to-access)
+    - [6.20 Rules of Conduct](#620-rules-of-conduct)
+    - [6.21 Remedies Cumulative](#621-remedies-cumulative)
+    - [6.22 Nonwaiver of Remedies](#622-nonwaiver-of-remedies)
+  - [ARTICLE VII: RECORDS AND AUDITS](#article-vii-records-and-audits)
+    - [7.1 Reports](#71-reports)
+    - [7.2 Common Expense Funds](#72-common-expense-funds)
+    - [7.3 Audits](#73-audits)
+  - [ARTICLE VIII: AMENDMENTS TO BYLAWS](#article-viii-amendments-to-bylaws)
+    - [8.1 Notice](#81-notice)
+    - [8.2 Adoption](#82-adoption)
+    - [8.3 Limitation](#83-limitation)
+    - [8.4 Execution and Recording](#84-execution-and-recording)
+  - [ARTICLE IX: CONDEMNATION](#article-ix-condemnation)
+    - [9.1 General](#91-general)
+    - [9.2 Common Elements](#92-common-elements)
+    - [9.3 Units](#93-units)
+    - [9.4 Termination](#94-termination)
+  - [ARTICLE X: ARCHITECTURAL CONTROL](#article-x-architectural-control)
+  - [ARTICLE XI: MISCELLANEOUS](#article-xi-miscellaneous)
+    - [11.1 Ad valorem Taxes](#111-ad-valorem-taxes)
+    - [11.2 Notification of Mortgagee](#112-notification-of-mortgagee)
+    - [11.3 Severability](#113-severability)
+    - [11.4 Successors Bound](#114-successors-bound)
+    - [11.5 Gender, Singular, Plural](#115-gender-singular-plural)
+    - [11.6 Principal Office; Registered Office](#116-principal-office-registered-office)
+    - [11.7 Other Offices](#117-other-offices)
+    - [11.8 Seal](#118-seal)
+    - [11.9 Fiscal Year](#119-fiscal-year)
+  - [Certification](#certification)
+
 EXHIBIT B TO DECLARATION OF THE COLONY LOFTS CONDOMINIUM
 
 ## ARTICLE I: PLAN OF CONDOMINIUM
 
-### 1.1. Unit Ownership
+### 1.1 Unit Ownership
 
 The property located in Mecklenburg County, State of North Carolina, and more particularly described in the Declaration of The Colony Lofts Condominiums (the “Declaration”), has been submitted to the provisions of the North Carolina Condominium Act (the “Act”) by instrument recorded in the Office of the Register of Deeds for Mecklenburg County, North Carolina, simultaneously herewith, and shall be known as Then Colony Lofts Condominiums (the “Condominium”).
 
@@ -26,11 +130,11 @@ The words, phrases and terms listed in these Bylaws shall have the meanings as s
 
 The Colony Lofts Condominium Homeowners Association, Inc. (the “Association”) shall be a nonprofit corporation, organized under the laws of the State of North Carolina, and the membership shall be comprised of all the Unit Owners as herein provided, which Association shall be governed by the Board as herein provided.
 
-### 2.2. Place of Meetings
+### 2.2 Place of Meetings
 
 All meetings of the Association shall be held at the Property, or at such other place, either within or without the State of North Carolina, as shall be designated in a notice of the meeting.
 
-### 2.3. Annual
+### 2.3 Annual
 
 An annual meeting of the Unit Owners shall be held at 7:00 o’clock p.m. on the first Monday in May of each year, if not a legal holiday, and if a legal holiday, then at the same time on the next business day following the legal holiday, for the purpose of electing members of the Board and of the transaction of such other business as may be properly brought before the meeting.
 
@@ -38,11 +142,11 @@ An annual meeting of the Unit Owners shall be held at 7:00 o’clock p.m. on the
 
 If the annual meeting shall not be held on the day designated by the Bylaws, a substitute annual meeting may be called in accordance with the provisions of Section 2.5 of this Article. A meeting so called shall be designated and treated for all purposes as the annual meeting.
 
-### 2.5. Special Meeting
+### 2.5 Special Meeting
 
 Special meetings of the Unit Owners may be called at any time by the President, a majority of the Board, or upon the written request of the Unit Owners owning at least 20% in Allocated Interest in the Common Elements exclusive of those Units held by the Declarant.
 
-### 2.6. Notice of Meetings
+### 2.6 Notice of Meetings
 
 Written or printed notice stating the place, day and hour of any meeting shall be delivered or mailed not less than 10 days  nor more than 50 days prior to the date thereof, either personally or by postage prepaid mail, at the direction of the Board, the President, or Unit Owners calling the meeting, to each person entitled to vote at such meeting, and, to all Eligible Mortgage Holders so requesting under the provision of Article XI of the Declaration, who may request a representative to attend the meeting of Unit Owners.
 
@@ -50,7 +154,7 @@ The notice of any meeting must state the time and place of the meeting and the i
 
 When a meeting is adjourned for less than 30 days in any one adjournment it is not necessary to give any notice of the adjourned meeting, other than by announcement at the meeting at which the adjournment is effective.
 
-### 2.7. Quorum
+### 2.7 Quorum
 
 The presence in person or by proxy at any meeting of the Voting Members (as defined in Section 2.8 of this Article) having 50% of the total votes which may be case for election of the Board shall constitute a quorum. If there is no quorum at the opening of the meeting of Unit Owners, such meeting may be adjourned from time to time by the vote of a majority of the Voting Members present, either in person or by proxy; and at any adjourned meeting at which a quorum is present, any business may be transacted which might have been transacted at the original meeting.
 
@@ -68,7 +172,7 @@ The vote of a majority of the Voting Members present at a meeting at which a quo
 
 The Voting Members may vote either in person or by agents duly authorized by written proxy executed by such Unit Owner or his duly authorized attorney in fact. A proxy shall be valid only for the particular meeting designated therein, unless the person executing it specifies therein the length of time for which it is to continue in force, which time shall not extend beyond one year from the date of its execution. Unless a proxy otherwise provides, any proxy holder may appoint in writing a substitute to act in his place. In order to be effective, all proxies must be dated and filed with the Secretary or duly acting Secretary of the Association, either during or prior to the meeting in question. A proxy is void if it is not dated.
 
-### 2.11. Waiver of Notice
+### 2.11 Waiver of Notice
 
 Any Voting Member may, at any time, waive notice of any meeting of the Association in writing, and such waiver shall be deemed to be equivalent to the giving of such notice. Attendance by a Voting Member at any meeting of the Association shall constitute a waiver of notice by him of the time and place thereof, except where a Voting Member attends a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully called.
 
