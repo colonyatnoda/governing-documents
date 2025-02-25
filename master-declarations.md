@@ -1,3 +1,9 @@
+---
+title: Master Declarations
+nav_order: 2
+layout: default
+---
+
 # MASTER DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE COLONY AT NODA
 
 - [MASTER DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE COLONY AT NODA](#master-declaration-of-covenants-conditions-and-restrictions-for-the-colony-at-noda)

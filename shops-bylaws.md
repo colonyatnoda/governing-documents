@@ -1,3 +1,9 @@
+---
+title: Shops Bylaws
+nav_order: 4.5
+layout: default
+---
+
 # EXHIBIT B BYLAWS OF SHOPS AT THE COLONY OWNERS ASSOCIATION, INC
 
 - [EXHIBIT B BYLAWS OF SHOPS AT THE COLONY OWNERS ASSOCIATION, INC](#exhibit-b-bylaws-of-shops-at-the-colony-owners-association-inc)

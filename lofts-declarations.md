@@ -1,3 +1,9 @@
+---
+title: Lofts Declarations
+nav_order: 3
+layout: default
+---
+
 # THE DECLARATION OF THE COLONY LOFTS CONDOMINIUM
 
 File for Record `Dec 9`, 2002

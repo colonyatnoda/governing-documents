@@ -1,3 +1,9 @@
+---
+title: Master Bylaws
+nav_order: 2.5
+layout: default
+---
+
 # BYLAWS OF THE COLONY AT NODA ASSOCIATION, INC.
 
 - [BYLAWS OF THE COLONY AT NODA ASSOCIATION, INC.](#bylaws-of-the-colony-at-noda-association-inc)

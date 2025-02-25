@@ -1,3 +1,9 @@
+---
+title: Shops Declarations
+nav_order: 4
+layout: default
+---
+
 # THE DECLARATION OF SHOPS AT THE COLONY CONDOMINIUM
 
 - [THE DECLARATION OF SHOPS AT THE COLONY CONDOMINIUM](#the-declaration-of-shops-at-the-colony-condominium)

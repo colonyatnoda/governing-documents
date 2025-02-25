@@ -1,3 +1,9 @@
+---
+title: Lofts Bylaws
+nav_order: 3.5
+layout: default
+---
+
 # BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC
 
 - [BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC](#bylaws-of-the-colony-lofts-condominium-homeowners-association-inc)

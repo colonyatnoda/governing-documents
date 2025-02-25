@@ -1,3 +1,12 @@
+---
+title: Home
+layout: home
+nav_order: 1
+description: >
+  This repository contains transcriptions of the original governing documents for The Colony at NoDa Association. These documents were scanned and transcribed into Markdown format for better readability and ease of editing.
+permalink: /
+---
+
 # The Colony at NoDa Association Governing Documents
 
 Welcome to the repository for the governing documents of The Colony at NoDa Association. This repository contains transcriptions of the original documents, which were scanned and transcribed into Markdown format for better readability and ease of editing.
