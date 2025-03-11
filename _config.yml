@@ -5,3 +5,7 @@ theme: just-the-docs
 url: https://colonyatnoda.github.io
 
 search_enabled: true
+
+aux_links:
+   "Colony at Noda on GitHub": 
+     - "https://github.com/colonyatnoda/governing-documents"
