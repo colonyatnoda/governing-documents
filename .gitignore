@@ -1,0 +1,19 @@
+
+# Jekyll specific files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
