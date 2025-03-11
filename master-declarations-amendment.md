@@ -6,6 +6,8 @@ layout: default
 
 # AMENDMENT TO THE MASTER DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE COLONY
 
+[Download the original scanned document (PDF)](/scanned-documents/master-declarations-amendment.pdf)
+
 **STATE OF NORTH CAROLINA**  
 **COUNTY OF MECKLENBURG**
 

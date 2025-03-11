@@ -1,10 +1,12 @@
 ---
 title: Master Declarations
-nav_order: 2
+nav_order: 2.1
 layout: default
 ---
 
 # MASTER DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE COLONY AT NODA
+
+[Download the original scanned document (PDF)](/scanned-documents/master-declarations.pdf)
 
 - [MASTER DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE COLONY AT NODA](#master-declaration-of-covenants-conditions-and-restrictions-for-the-colony-at-noda)
   - [STATEMENT OF PURPOSE](#statement-of-purpose)

@@ -6,6 +6,8 @@ layout: default
 
 # BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC
 
+[Download the original scanned document (PDF)](/scanned-documents/lofts-bylaws.pdf)
+
 - [BYLAWS OF THE COLONY LOFTS CONDOMINIUM HOMEOWNERS ASSOCIATION, INC](#bylaws-of-the-colony-lofts-condominium-homeowners-association-inc)
   - [ARTICLE I: PLAN OF CONDOMINIUM](#article-i-plan-of-condominium)
     - [1.1 Unit Ownership](#11-unit-ownership)

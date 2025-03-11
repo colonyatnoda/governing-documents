@@ -6,6 +6,8 @@ layout: default
 
 # EXHIBIT B BYLAWS OF SHOPS AT THE COLONY OWNERS ASSOCIATION, INC
 
+[Download the original scanned document (PDF)](/scanned-documents/shops-bylaws.pdf)
+
 - [EXHIBIT B BYLAWS OF SHOPS AT THE COLONY OWNERS ASSOCIATION, INC](#exhibit-b-bylaws-of-shops-at-the-colony-owners-association-inc)
   - [ARTICLE I: PLAN OF CONDOMINIUM](#article-i-plan-of-condominium)
     - [1.1 Unit Ownership](#11-unit-ownership)

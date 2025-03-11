@@ -6,6 +6,8 @@ layout: default
 
 # Rules and Regulations of THE COLONY AT NODA ASSOCIATION, INC
 
+[Download the original scanned document (PDF)](/scanned-documents/rules-and-regulations.pdf)
+
 - [Rules and Regulations of THE COLONY AT NODA ASSOCIATION, INC](#rules-and-regulations-of-the-colony-at-noda-association-inc)
   - [Quick List of Do’s and Don’ts](#quick-list-of-dos-and-donts)
   - [Article 1 - Vehicles and Parking](#article-1---vehicles-and-parking)

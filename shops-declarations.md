@@ -6,6 +6,8 @@ layout: default
 
 # THE DECLARATION OF SHOPS AT THE COLONY CONDOMINIUM
 
+[Download the original scanned document (PDF)](/scanned-documents/shops-declarations.pdf)
+
 - [THE DECLARATION OF SHOPS AT THE COLONY CONDOMINIUM](#the-declaration-of-shops-at-the-colony-condominium)
   - [DECLARATION OF SHOPS AT THE COLONY CONDOMINIUM](#declaration-of-shops-at-the-colony-condominium)
     - [WITNESSETH](#witnesseth)

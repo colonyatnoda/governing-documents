@@ -6,6 +6,8 @@ layout: default
 
 # BYLAWS OF THE COLONY AT NODA ASSOCIATION, INC.
 
+[Download the original scanned document (PDF)](/scanned-documents/master-bylaws.pdf)
+
 - [BYLAWS OF THE COLONY AT NODA ASSOCIATION, INC.](#bylaws-of-the-colony-at-noda-association-inc)
   - [ARTICLE I: Plan of Association](#article-i-plan-of-association)
     - [1.1 Ownership](#11-ownership)

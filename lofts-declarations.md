@@ -6,6 +6,8 @@ layout: default
 
 # THE DECLARATION OF THE COLONY LOFTS CONDOMINIUM
 
+[Download the original scanned document (PDF)](/scanned-documents/lofts-declarations.pdf)
+
 File for Record `Dec 9`, 2002
 Recorded in Book `14510`, Pages `770` through `828`
 In the Office of the Register of Deeds for Mecklenburg County, North Carolina
