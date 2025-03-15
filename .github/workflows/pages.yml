@@ -42,7 +42,7 @@ jobs:
         run: |
           mkdir -p docs/generated-documents
           for file in *.md; do
-            pandoc "$file" --lua-filter=exclude-section.lua -o "docs/generated-documents/${file%.md}.pdf --lua-filter=exclude-section.lua -H pdf.tex"
+            pandoc "$file" -f gfm --lua-filter=exclude-section.lua -o "docs/generated-documents/${file%.md}.pdf" -H pdf.tex
           done
       - name: Setup Pages
         id: pages
