@@ -6,9 +6,9 @@ layout: default
 
 # Documents
 
-Below is a list of all the original scanned documents available for download:
+Below is a list of all the documents available for download. The scanned documents are the original governing documents, while the generated documents are transcriptions of those scanned documents. Please note that the generated documents may contain errors or slight changes for readability.
 
-## Scanned Documents
+## Original Scanned Documents
 
 - [Master Declarations](docs/scanned-documents/master-declarations.pdf)
 - [Master Bylaws](docs/scanned-documents/master-bylaws.pdf)
@@ -19,7 +19,7 @@ Below is a list of all the original scanned documents available for download:
 - [Master Declarations Amendment](docs/scanned-documents/master-declarations-amendment.pdf)
 - [Rules and Regulations](docs/scanned-documents/rules-and-regulations.pdf)
 
-## Generated Documents
+## Transcribed Generated Documents
 
 - [Master Declarations](docs/generated-documents/master-declarations.pdf)
 - [Master Bylaws](docs/generated-documents/master-bylaws.pdf)
